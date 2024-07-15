@@ -5,7 +5,7 @@
 
 รหัส นศ.: 660610781
 
-ชื่อ-สกุล : Phetmongkhon Rungrat
+ชื่อ-สกุล : เพชรมงคล รุ่งรัตน์
 
 GitHub Page URL : https://cpe207-students-167.github.io/lab07-tgtv180447
 
